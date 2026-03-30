@@ -56,7 +56,7 @@ Desenvolvedora Front-end | UX Designer em formação
 
 ## 🔗 Contato
 - [LinkedIn](https://www.linkedin.com/in/michelefrancisca/)  
-- WhatsApp: (31) 99202-2307  
+- [WhatsApp](https://wa.me/5531992022307) 
 - 📧 Email: michellialmeida1002@gmail.com  
 
 ---
