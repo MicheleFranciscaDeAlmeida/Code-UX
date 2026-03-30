@@ -17,8 +17,9 @@ Desenvolvedora Front-end | UX Designer em formação
 
 ## 📊 Estatísticas de GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleFranciscaDeAlmeida&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&theme=radical)  
+![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleFranciscaDeAlmeida&layout=compact&theme=tokyonight)
 
 ---
 
