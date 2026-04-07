@@ -40,6 +40,8 @@ Este projeto aplica conceitos de UX/UI para criar experiências mais claras e in
 
 A melhoria da experiência do usuário pode apoiar soluções tecnológicas voltadas à sustentabilidade, reduzindo erros, otimizando processos e promovendo o uso responsável de recursos.
 
+Este tipo de abordagem pode ser aplicado em sistemas que incentivam escolhas sustentáveis, como aplicativos de consumo consciente, redução de desperdício e otimização de recursos.
+
 ## 📷 Demonstração
 Este projeto é focado na estrutura e conceitos de UX/UI, com ênfase na organização visual e usabilidade da interface.
 
